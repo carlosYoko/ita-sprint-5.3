@@ -1,0 +1,9 @@
+{
+  "_id": "ObjectId",
+  "first_name": "String",
+  "address": "String",
+  "telephone": "String",
+  "email": "String",
+  "register_date": "ISODate",
+  "last_shoppings_id": ["ObjectId"]
+}

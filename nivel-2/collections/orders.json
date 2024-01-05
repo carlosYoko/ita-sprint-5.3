@@ -1,0 +1,15 @@
+{
+  "_id": "ObjectId",
+  "customer_id": "ObjectId",
+  "shop_id": "ObjectId",
+  "order_date": "Date",
+  "delivery_type": "String",
+  "products": [
+    {
+      "product_id": "ObjectId",
+      "quantity": "Number"
+    }
+  ],
+  "total_price": "Number",
+  "note": "String"
+}

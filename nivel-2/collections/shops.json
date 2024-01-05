@@ -1,0 +1,7 @@
+{
+  "_id": "ObjectId",
+  "address": "String",
+  "postal_code": "String",
+  "city": "String",
+  "province": "String"
+}
