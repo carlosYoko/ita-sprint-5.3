@@ -1,0 +1,12 @@
+{
+  "_id": "ObjectId",
+  "name": "String",
+  "creation_date": "Date",
+  "status": "String",
+  "videos": [
+    {
+      "video_id": "ObjectId",
+      "added_date": "Date"
+    }
+  ]
+}

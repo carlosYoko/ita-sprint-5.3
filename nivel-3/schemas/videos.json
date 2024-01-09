@@ -1,0 +1,18 @@
+{
+  "_id": "ObjectId",
+  "title": "String",
+  "description": "String",
+  "size": "String",
+  "video_file_name": "String",
+  "duration": "String",
+  "thumbnail": "String",
+  "views": "Number",
+  "likes": "Number",
+  "dislikes": "Number",
+  "status": "String",
+  "tags": ["String"],
+  "uploader": {
+    "user_id": "ObjectId",
+    "upload_date": "Date"
+  }
+}

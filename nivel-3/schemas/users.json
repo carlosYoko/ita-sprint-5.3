@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "email": "String",
+  "password": "String",
+  "username": "String",
+  "birthdate": "Date",
+  "gender": "String",
+  "country": "String",
+  "postal_code": "Number"
+}
