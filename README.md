@@ -20,20 +20,20 @@ El proyecto se centra en la gestión de una óptica llamada. Aquí se detallan l
 1. **Diseño de la base de datos según la vista del cliente de la óptica.**
 
    - El ejercicio pide que se considere la información necesaria para mostrar la interfaz gráfica proporcionada.
-   <details> 
-     <summary><p>🖥️ Vista </p></summary>
-   <p align="center">
-     <img src="./nivel-1/ejercicio-1/view/view.png">
-   </p>
+     <details>
+       <summary>🖥️ Vista</summary>
+        <p align="center">
+            <img src="./nivel-1/ejercicio-1/view/view.png">
+        </p>
      </details>
 
 2. **Diseño de la base de datos según la vista de las gafas.**
    - El ejercicio pide que se considere la información necesaria para mostrar la interfaz de las gafas.
-   <details> 
-     <summary><p>🖥️ Vista </p></summary>
-   <p align="center">
-     <img src="./nivel-1/ejercicio-2/view/view.png">
-   </p>
+        <details>
+       <summary>🖥️ Vista</summary>
+        <p align="center">
+            <img src="./nivel-1/ejercicio-2/view/view.png">
+        </p>
      </details>
 
 ### Nivel 2 - Tienda de comida a domicilio
